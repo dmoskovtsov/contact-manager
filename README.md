@@ -5,27 +5,27 @@ Please start by forking this repository.
 
 Once you've done that, you can get a 100 points as your score by finishings following 6 tasks:
 
-1 Dependency management (10 points)
+1. Dependency management (10 points)
 Our dependencies are hardcoded in vendor folder. You task is to remove them in favour of npm.
 
-2 Package management (10 points)
+2. Package management (10 points)
 Now we can go for a better package management. Let's add webpack.
 
 3. Architecture (40 points)
 App is currently using underscore template engine and backbonejs, we think that as application grows this current architecture will create more complexities and become slow. We think that React+Redux architecture will reduce complexity.
 Your task is - convert this client side application into above mentioned architecture. Note, we believe that automated testing helps in reducing complexity and time on building features. You're encouraged to go as fas as 100% unit test code coverage. You can use any testing framework on your taste.
 
-We will evaluate by looking at following points:
-Robustness (easy to understand and change, the libraries and frameworks used in the way they intended to be used).
-Clean code (readability, modularity, components hierarchy, structure of test cases).
-Code coverage (percentage, how easy is that to break the production code, what did you find important to cover).
+    We will evaluate by looking at following points:
+    Robustness (easy to understand and change, the libraries and frameworks used in the way they intended to be used).
+    Clean code (readability, modularity, components hierarchy, structure of test cases).
+    Code coverage (percentage, how easy is that to break the production code, what did you find important to cover).
 
 4. Redesign (25 points)
 We think that User Experience is paramount importance. Since this is a subjective topic we leave it up to you on how to design the flow of app or change the UI. You don't have to make drastic changes but minor tweaks and improvements will do.
 
-We will evaluate this task by looking at following points:
-User Experience
-Look and Feel
+    We will evaluate this task by looking at following points:
+    User Experience
+    Look and Feel
 
 5. Storing the state (10 points)
 We want our customers to see their contacts next time they come back. We suggest you use cookies for that.
