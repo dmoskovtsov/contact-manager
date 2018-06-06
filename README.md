@@ -37,11 +37,12 @@ Result
 You present the URL to your GitHub repository + URL to the app where the application is deployed (Heroku, or any other platform or your choice).
 
 Notes:
+
     - You will get bonus points of writing meaning full git commit messages.
     - Tasks doesn't have to be done in order. 
     - You may take 2 days to finish this test. We expect you to submit all five tasks within 2 days. If you run into complications, please inform us so that we can allocate you some additional time.
 
 
-If you have any questions regarding the test text me at danmos@aviarc.com or via facebook 'Daniil Moskovtsov'.I’ll be available most of the time.
+If you have any questions regarding the test text me at danmos@aviarc.com or via facebook 'Daniil Moskovtsov'. I’ll be available most of the time.
 
 Good luck!
